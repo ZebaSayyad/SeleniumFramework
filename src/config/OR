@@ -1,0 +1,9 @@
+#Home Page Objects
+btn_MyAccounts=LinkText("My Accounts")
+btn_LogOut=
+
+
+#Login Page Object
+txtbx_Username=//input[@id='username']
+txtbx_Password=//input[@id='password']
+btn_LogIn=LinkText("Login")
